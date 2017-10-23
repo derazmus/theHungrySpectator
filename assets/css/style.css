@@ -1,0 +1,32 @@
+#jumbotron{
+	background-color: #FF9933;
+	border-bottom: 5px solid white ;
+}
+
+#logo{
+	max-height: 200px;
+	max-width: 200px;
+}
+body{
+	background-color: #8bd6ba;
+}
+
+footer{
+	font-size: 30px;
+	font-style: bold;
+	text-align: center;
+	background-color: #FF9933;
+	border-top: 5px solid white ;
+	padding-top: 20px;
+	padding-bottom: auto;
+}
+
+footer {
+  padding: 30px 0;
+  clear: both;
+  font-size: 20px;
+  color: white;
+  text-align: center;
+  background-color: #FF9333;
+  border-top: 8px solid white;
+}
